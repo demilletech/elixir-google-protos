@@ -27,7 +27,7 @@ defmodule GoogleProtos.MixProject do
 
   defp package do
     [
-      maintainers: ["Tony Han"],
+      maintainers: ["demilleTech"],
       licenses: ["MIT"],
       links: %{"GitHub" => "https://github.com/demilletech/elixir-google-protos"},
       files: ~w(mix.exs README.md lib config LICENSE)
